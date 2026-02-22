@@ -80,6 +80,156 @@ Menu-driven programs
 
 Algorithm
 
+1️ Algorithm to Print Numbers from 1 to 5
+
+Start
+
+Use a for loop from 1 to 5
+
+Print the value of the loop variable in each iteration
+
+Stop
+
+2️ Algorithm to Print Even Numbers Between 1 to 10
+
+Start
+
+Use a for loop from 2 to 10
+
+For each number, check if it is divisible by 2
+
+If divisible, print the number
+
+Repeat until loop ends
+
+Stop
+
+3️ Algorithm to Find Sum of First N Natural Numbers
+
+Start
+
+Initialize variable c = 0
+
+Input value of n
+
+Use a for loop from 1 to n
+
+Add each number to c
+
+After loop ends, print c
+
+Stop
+
+4️ Algorithm to Print a Matrix Using Nested Loop
+
+Start
+
+Declare a 3×3 matrix A
+
+Use outer loop for rows (0 to 2)
+
+Use inner loop for columns (0 to 2)
+
+Print each element A[i][j]
+
+Move to next line after each row
+
+Stop
+
+5️ Algorithm to Print Matrix Using Row Iteration
+
+Start
+
+Declare matrix A
+
+Use for loop to iterate through each row
+
+Print each row
+
+Stop
+
+6️ Algorithm for Matrix Multiplication
+
+Start
+
+Declare matrices A and B
+
+Initialize result matrix with zeros
+
+Use outer loop for rows of A
+
+Use middle loop for columns of B
+
+Use inner loop to multiply corresponding elements
+
+Add multiplication result to result[i][j]
+
+After computation, print result matrix
+
+Stop
+
+7️ Algorithm to Print All Different Permutations of Three Numbers
+
+Start
+
+Store three numbers in list d
+
+Use three nested loops (i, j, k from 0 to 2)
+
+Check if all three elements are different
+
+If different, print them
+
+Repeat until loops end
+
+Stop
+
+8️ Algorithm to Print Right-Angled Triangle Using *
+
+Start
+
+Use for loop from 0 to 4
+
+Print "*" multiplied by loop value
+
+Stop
+
+9️ Algorithm to Print Pyramid Pattern Using $
+
+Start
+
+Set number of rows = 5
+
+Use for loop from 1 to rows
+
+Print spaces (rows − i)
+
+Print $ symbol i times
+
+Move to next line
+
+Stop
+
+10 Algorithm to Print Prime Numbers in a Range
+
+Start
+
+Use outer loop from 2 to 50
+
+For each number, use inner loop from 2 to number-1
+
+If number is divisible by any value, break loop
+
+If not divisible by any number, print it (prime)
+
+Repeat until range ends
+
+Stop
+
+If you want, I can also format this in practical record format (Aim, Theory, Algorithm, Conclusion) for submission.
+
+Do you like this personality?
+
 
 Else if B > A and B > C, then B is largest
 
